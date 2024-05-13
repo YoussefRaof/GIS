@@ -333,7 +333,7 @@ urban_areas = r'D:\Colleage\Fourth Year\Second Semester\GIS\Project\Work\Data\ne
 #             print "Associated Label {}".format(decoded)
 #             gps_all[decoded] = exif['GPSInfo'][k]
 #
-#         # Requirment 17
+#         #Requirment 17
 #
 #         Long_Ref = gps_all.get('GPSLongitudeRef')
 #         Long = gps_all.get('GPSLongitude')
